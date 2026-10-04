@@ -1,8 +1,8 @@
-# Benchly Legal
+# Benchino Legal
 
-Official legal and support pages for **Benchly**, a mobile app for discovering, sharing, and saving memorable benches and places.
+Official legal and support pages for **Benchino**, a mobile app for discovering, sharing, and saving memorable benches and places.
 
-This repository contains the public pages used for Benchly's App Store and Google Play distribution requirements.
+This repository contains the public pages used for Benchino's App Store and Google Play distribution requirements.
 
 ## Pages
 
@@ -15,12 +15,12 @@ This repository contains the public pages used for Benchly's App Store and Googl
 
 The public legal site is hosted using GitHub Pages.
 
-## About Benchly
+## About Benchino
 
-Benchly helps people discover benches, share interesting places, save their favorites, and leave memories connected to those locations.
+Benchino helps people discover benches, share interesting places, save their favorites, and leave memories connected to those locations.
 
 ## Support
 
-For questions about Benchly, please use the contact information provided on the Support page.
+For questions about Benchino, please use the contact information provided on the Support page.
 
-© 2026 Benchly
+© 2026 Benchino
